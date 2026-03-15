@@ -1,0 +1,30 @@
+[
+  {
+    "mission_id": "primary-mock:ll2-1003",
+    "provider_broker": "Arianespace Rideshare Desk",
+    "payload_capacity_notes": "Broker indicates likely microsat slot availability",
+    "raw_notes_text": "Manual override: broker follow-up in progress"
+  },
+  {
+    "mission_id": "primary-mock:ll2-1007",
+    "provider_broker": "Arianespace",
+    "launch_date_precision": "window",
+    "raw_notes_text": "Manual note: launch window may shift based on dual-manifest readiness"
+  },
+  {
+    "mission_id": "primary-mock:ll2-1011",
+    "payload_capacity_notes": "Payload sharing status currently unconfirmed",
+    "raw_notes_text": "Manual note: revisit once mission profile is finalized"
+  },
+  {
+    "mission_id": "primary-mock:ll2-1012",
+    "launch_date_precision": "tbd",
+    "provider_broker": "Blue Origin Commercial",
+    "payload_capacity_notes": "Secondary payload policy not yet published"
+  },
+  {
+    "mission_id": "primary-mock:ll2-1018",
+    "deployment_orbit_text": "Polar surveillance orbit (estimate)",
+    "provider_broker": "Government brokered"
+  }
+]

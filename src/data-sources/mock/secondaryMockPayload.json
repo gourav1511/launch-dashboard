@@ -1,0 +1,43 @@
+[
+  {
+    "sourceMissionId": "sec-2001",
+    "missionName": "Regional EO Test Flight",
+    "launcherFamily": "Kuaizhou-1A",
+    "launchDateStart": "2026-11-04",
+    "launchDateEnd": "2026-11-10",
+    "launchDatePrecision": "window",
+    "launchSite": "Jiuquan LC-95A",
+    "orbitType": "SSO",
+    "deploymentOrbitText": "Approximate SSO insertion",
+    "sourceUrl": "https://example.com/secondary/regional-eo-test-flight",
+    "lastUpdated": "2026-03-01T00:00:00Z"
+  },
+  {
+    "sourceMissionId": "sec-2002",
+    "missionName": "Ocean Monitoring Block A",
+    "launcherFamily": "Electron",
+    "launchDateStart": "2026-10-05",
+    "launchDateEnd": "2026-10-09",
+    "launchDatePrecision": "net",
+    "launchSite": "Mahia LC-1B",
+    "orbitType": "SSO",
+    "altitudeKm": 575,
+    "inclinationDeg": 97.7,
+    "deploymentOrbitText": "SSO deployment",
+    "sourceUrl": "https://example.com/secondary/ocean-monitoring-a",
+    "lastUpdated": "2026-03-02T00:00:00Z"
+  },
+  {
+    "sourceMissionId": "sec-2003",
+    "missionName": "Comms Expansion Demo",
+    "launcherFamily": "Ariane 6",
+    "launchDateStart": "2026-09-22",
+    "launchDateEnd": "2026-09-22",
+    "launchDatePrecision": "exact",
+    "launchSite": "CSG ELA-4",
+    "orbitType": "GTO",
+    "deploymentOrbitText": "GTO deployment profile",
+    "sourceUrl": "https://example.com/secondary/comms-expansion-demo",
+    "lastUpdated": "2026-03-01T00:00:00Z"
+  }
+]
