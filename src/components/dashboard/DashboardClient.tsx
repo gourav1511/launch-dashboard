@@ -109,11 +109,7 @@ export function DashboardClient({
 
   return (
     <main className="mx-auto flex max-w-[1500px] flex-col gap-4 px-4 py-6 lg:px-8">
-      <header className="mb-2">
-        <p className="text-sm font-semibold uppercase tracking-[0.2em] text-teal-700">
-          ICEYE Launch Planning
-        </p>
-        <h1 className="mt-1 text-3xl font-semibold">Launch Opportunity Dashboard</h1>
+      <header className="mb-2">        <h1 className="mt-1 text-3xl font-semibold">Launch Opportunity Dashboard</h1>
         <p className="mt-2 max-w-3xl text-sm text-slate-600">
           Scan upcoming launch opportunities, compare mission-fit scores, and inspect
           score transparency before follow-up.
@@ -167,3 +163,4 @@ export function DashboardClient({
     </main>
   );
 }
+
